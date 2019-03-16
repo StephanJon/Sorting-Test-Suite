@@ -1,7 +1,0 @@
-SFWR ENG 2XB3
-Stephanus Brian Jonatan
-400072396
-All work within this java project folder is my own individual work, with the design logic for 
-	certain algorithms cited to its proper owner (February 22, 2018)
-JobReader.java consists of functions that help read a text file filled with Jobs, and converts
-	a 2D string array into a 2D Job array.
